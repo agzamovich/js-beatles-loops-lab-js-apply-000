@@ -1,6 +1,6 @@
 function theBeatlesPlay([Beatles, Agulero, Michael Jackson], [Guitar, Musical, Piano, Fortopiano]){
   var arr = " ";
-  fo(var i = 0; i <= arr.length; i++){
+  for(var i = 0; i <= arr.length; i++){
       console.log(arr[0][i]);
   }
 }
